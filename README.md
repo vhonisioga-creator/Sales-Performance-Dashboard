@@ -13,7 +13,9 @@ Interactive Power BI dashboard analysing sales performance, revenue trends, and 
 ![Dashboard Screenshot](Screenshot 2026-05-04 220813.png)
 
 ## Live Dashboard
-PASTE YOUR POWER BI PUBLIC LINK HERE
+🔒 Interactive version available upon request (restricted by Power BI tenant settings)
+
+👉 Contact me or request access to view the full dashboard
 
 ## Key Insights
 - Revenue trends over time
